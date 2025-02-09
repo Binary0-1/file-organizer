@@ -1,0 +1,7 @@
+{
+    "extensions": {
+      ".txt": "txt",
+      ".jpg": "jpg",
+      ".jpeg": "jpg"
+    }
+  }
